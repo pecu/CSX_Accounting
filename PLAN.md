@@ -6,4 +6,5 @@
 >* [致股東報告書文字資訊與裁罰案件關聯性之研究](https://drive.google.com/drive/folders/1ARhnjCUnABHp8nlWtDXM2XkY-m3k9oAl?fbclid=IwAR2i73K55mbcELavKIKQuBZWFTIQyK6eLIU5ioCoQ3oC7wQM5lYJgmHe5xw)
 
 ## 預計目標
-- [ ] 8/23完成網頁製作並開好AWS的虛擬機
+- [x] 8/23完成網頁製作並開好AWS的虛擬機
+- [ ] 9/6將網頁放上AWS並寫出爬蟲爬出每年資料
