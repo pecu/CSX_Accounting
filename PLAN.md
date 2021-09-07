@@ -5,6 +5,7 @@
 >* [致股東報告書文本資訊與公司治理評鑑之關聯性研究](https://drive.google.com/drive/folders/1JtEiRvVbz-y5VW12Qy7dWfNxC7UIGj63?fbclid=IwAR1eWISX_yEcfKSNAaoAtNbxH1NqHghKyi-SdDJrPuHHLXK4uCxz4XzQUVg)
 >* [致股東報告書文字資訊與裁罰案件關聯性之研究](https://drive.google.com/drive/folders/1ARhnjCUnABHp8nlWtDXM2XkY-m3k9oAl?fbclid=IwAR2i73K55mbcELavKIKQuBZWFTIQyK6eLIU5ioCoQ3oC7wQM5lYJgmHe5xw)
 >* [公開觀測站](https://mops.twse.com.tw/mops/web/t57sb01_q5)
+> [上市公司代碼一覽](https://www.tej.com.tw/webtej/doc/uid.htm?fbclid=IwAR2R_sYXIvO2I75X7HCGzeJgkXiQb6Jme8KajNvl128s2VkCDBmXVhMCgRo)
 
 ## 程式碼
 >* [觀測站爬蟲資料](https://drive.google.com/drive/u/0/folders/14ljZZJleLuVx4PM6cWaT0-XUUZX4fLlx)
