@@ -6,6 +6,9 @@
 >* [致股東報告書文字資訊與裁罰案件關聯性之研究](https://drive.google.com/drive/folders/1ARhnjCUnABHp8nlWtDXM2XkY-m3k9oAl?fbclid=IwAR2i73K55mbcELavKIKQuBZWFTIQyK6eLIU5ioCoQ3oC7wQM5lYJgmHe5xw)
 >* [公開觀測站](https://mops.twse.com.tw/mops/web/t57sb01_q5)
 
+##程式碼
+>* [觀測站爬蟲資料](https://drive.google.com/drive/u/0/folders/14ljZZJleLuVx4PM6cWaT0-XUUZX4fLlx)
+
 ## 預計目標
 - [x] 8/23完成網頁製作並開好AWS的虛擬機
 - [x] 9/6寫完資料爬蟲和複製雲端硬碟
