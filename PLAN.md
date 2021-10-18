@@ -8,7 +8,8 @@
 >* [上市公司代碼一覽](https://www.tej.com.tw/webtej/doc/uid.htm?fbclid=IwAR2R_sYXIvO2I75X7HCGzeJgkXiQb6Jme8KajNvl128s2VkCDBmXVhMCgRo)
 
 ## 程式碼
->* [觀測站爬蟲資料](https://drive.google.com/drive/u/0/folders/14ljZZJleLuVx4PM6cWaT0-XUUZX4fLlx)
+>* [觀測站爬蟲資料](https://drive.google.com/drive/folders/1KQB-ibsMFNlw-8IkReZyGqPXZPLa4YpZ?usp=sharing)
+>* [BERT](https://drive.google.com/drive/folders/1lW2zu482_MH6hSXmApizfrlyRio1vGCH?usp=sharing)
 
 ## 預計目標
 - [x] 8/23完成網頁製作並開好AWS的虛擬機
