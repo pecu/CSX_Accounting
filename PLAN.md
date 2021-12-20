@@ -7,6 +7,7 @@
 >* [公開觀測站](https://mops.twse.com.tw/mops/web/t57sb01_q5)
 >* [上市公司代碼一覽](https://www.tej.com.tw/webtej/doc/uid.htm?fbclid=IwAR2R_sYXIvO2I75X7HCGzeJgkXiQb6Jme8KajNvl128s2VkCDBmXVhMCgRo)
 >* [中文詞向量教學影片](https://youtu.be/-ja07wQ03ak)
+>* [Notion](https://www.notion.so/fd77b1d4657041949d00d77dd3bd50af?v=c32de9689313428da76ff4de75046dcd)
 
 ## 程式碼
 >* [致股東報告書](https://drive.google.com/drive/folders/1CQiDQsKw3norHabgSLhomLEV-wy8S7hX)
